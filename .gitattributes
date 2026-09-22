@@ -1,0 +1,6 @@
+02_abs_boundaries/SA1_2021_GDA2020/SA1_2021_AUST_SHP_GDA2020.zip filter=lfs diff=lfs merge=lfs -text
+02_abs_boundaries/SA1_2021_GDA2020/original/SA1_2021_AUST_GDA2020.shp filter=lfs diff=lfs merge=lfs -text
+03_gtfs/DTP_GTFS_feed_05.zip filter=lfs diff=lfs merge=lfs -text
+04_vicmap_planning/PLAN_OVERLAY.geojson filter=lfs diff=lfs merge=lfs -text
+04_vicmap_planning/PLAN_ZONE.geojson filter=lfs diff=lfs merge=lfs -text
+09_vicmap_property/Vicmap_PROPERTY_MP_Melbourne_UGB_bbox.sqlite filter=lfs diff=lfs merge=lfs -text

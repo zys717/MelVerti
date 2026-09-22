@@ -1,0 +1,69 @@
+{
+  "id": "508f35ed1218481babdbcba0280b6d03",
+  "owner": "Vicmap_Prod",
+  "ownerId": "96bcaf0adf3d4131892bd368de6a5a96",
+  "orgId": "P744lA0wf4LlBZ84",
+  "created": 1743548805000,
+  "modified": 1789238858000,
+  "guid": null,
+  "name": "Vicmap Planning",
+  "title": "Vicmap Planning",
+  "type": "Feature Service",
+  "typeKeywords": [
+    "ArcGIS Server",
+    "Data",
+    "Feature Access",
+    "Feature Service",
+    "Metadata",
+    "Multilayer",
+    "Service",
+    "Hosted Service"
+  ],
+  "description": "<p><span style='font-size:16px;'>Vicmap Planning helps you to visualise and analyse your business information with Victoria\u2019s planning scheme map information.</span><br /><span style='font-size:16px;'>The Department of Transport and Planning provides:</span></p><ul><li><span style='font-size:16px;'>planning scheme zones and overlays</span></li><li><span style='font-size:16px;'>Melbourne\u2019s urban growth boundary</span><br /><span style='font-size:16px;'>&nbsp;</span></li></ul><p><span style='font-size:16px;'>Vicmap Planning customers include town planners, water businesses and authorities, utilities and government.</span><br /><span style='font-size:16px;'>Each planning scheme contains:</span></p><ul><li><span style='font-size:16px;'><strong>Zones</strong>: indicating the type of land uses that may be appropriate in that zone, such as residential, industrial or rural</span></li><li><span style='font-size:16px;'><strong>Overlay controls</strong>: reflecting specific characteristics of land in an area, for example significant vegetation or heritage values.</span></li></ul><p><br /><span style='font-size:16px;'>Vicmap Planning represents the land use zone and overlay controls for all Victorian planning schemes. Planning schemes are based on the 79 local government areas and also cover three other areas in Victoria: French Island, Alpine Resorts and Port of Melbourne Planning Schemes.</span><br /><br /><a target='_blank' href='https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-planning' rel='nofollow ugc noopener noreferrer'><span style='font-size:16px;'>Vicmap Planning (land.vic.gov.au)</span></a></p>",
+  "tags": [
+    "Property"
+  ],
+  "snippet": "Victoria\u2019s planning scheme map information including land use zones and overlay controls for all Victorian planning schemes.",
+  "thumbnail": "thumbnail/plan.png",
+  "documentation": null,
+  "extent": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "categories": [],
+  "spatialReference": "102100",
+  "accessInformation": "",
+  "classification": null,
+  "licenseInfo": "<div><p style=\"box-sizing:inherit;color:rgb(111, 111, 111);font-family:VIC, Arial, sans-serif;letter-spacing:-0.01875rem;margin-bottom:1.5rem;margin-top:0px;\">Vicmap data on this website is provided under a&nbsp;<a style=\"color:rgb(0, 121, 193);text-decoration-line:none;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://creativecommons.org/licenses/by/4.0\"><span style=\"font-size:0.98em;\"><span style=\"box-sizing:inherit;\">Creative Commons Attribution 4.0 international licence</span></span></a><span style=\"font-size:0.98em;\"><span style=\"box-sizing:inherit;\">, except:</span></span></p><ul><li>any images, photographs or branding, including the Victorian Coat of Arms, the Victorian Government logo and the Department of Transport and Planning logo; and</li><li>content supplied by third parties.</li></ul><div><a style=\"color:rgb(0, 121, 193);text-decoration-line:none;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://land.vic.gov.au/maps-and-spatial/spatial-data/how-to-access-spatial-data/licensing\">Licensing Information</a></div></div><div><a style=\"color:rgb(0, 121, 193);text-decoration-line:none;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.vic.gov.au/dtp-website-terms-and-conditions\">Copyright</a><br>&nbsp;</div><div><div style=\"margin:0px;padding:0px;\"><div style=\"clear:both;margin:0px;padding:0px;\"><p style=\"font-kerning:none;margin-bottom:0px;margin-right:44px;margin-top:0px;padding:0px;\"><br>&nbsp;</p><p style=\"font-kerning:none;margin-bottom:0px;margin-right:44px;margin-top:0px;padding:0px;\"><span style=\"margin:0px;padding:0px;\"><strong>Disclaimer Statement</strong></span></p><p style=\"font-kerning:none;margin-bottom:0px;margin-right:44px;margin-top:0px;padding:0px;\"><span style=\"margin:0px;padding:0px;\">The State of Victoria:&nbsp;</span></p></div><div style=\"margin:0px;padding:0px;\"><ol><li><span style=\"margin:0px;padding:0px;\">does not give any representation or warranty as to&nbsp;</span></li><li><span style=\"margin:0px;padding:0px;\">the accuracy or completeness of DTP spatial products (including data and metadata), Vicmap&nbsp;products or Vicmap&nbsp;product specifications; or&nbsp;</span></li><li><span style=\"margin:0px;padding:0px;\">the fitness of such data or products or of DTP spatial services (including APIs and web services) for any particular purpose;&nbsp;</span></li><li><span style=\"margin:0px;padding:0px;\">disclaims all responsibility and liability whatsoever for any errors, faults, defects or omissions in such data or products and services.&nbsp;</span></li></ol></div></div><div style=\"margin:0px;padding:0px;\"><div style=\"clear:both;margin:0px;padding:0px;\"><p style=\"font-kerning:none;margin-bottom:0px;margin-right:44px;margin-top:0px;padding:0px;\"><span style=\"margin:0px;padding:0px;\">Any person using or relying upon such products and services must make an independent assessment of them and their fitness for particular purposes&nbsp;and requirements.</span></p><p style=\"font-kerning:none;margin-bottom:0px;margin-right:44px;margin-top:0px;padding:0px;\"><br>&nbsp;</p><p style=\"font-kerning:none;margin-bottom:0px;margin-right:44px;margin-top:0px;padding:0px;\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.vic.gov.au/dtp-website-terms-and-conditions\">More Information on Disclaimer</a></p></div></div></div>",
+  "culture": "en-us",
+  "properties": null,
+  "advancedSettings": null,
+  "url": "https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/arcgis/rest/services/Vicmap_Planning/FeatureServer",
+  "proxyFilter": null,
+  "access": "public",
+  "size": 1097261056,
+  "subInfo": 0,
+  "appCategories": [],
+  "industries": [],
+  "languages": [],
+  "largeThumbnail": null,
+  "banner": null,
+  "screenshots": [],
+  "listed": false,
+  "commentsEnabled": true,
+  "numComments": 0,
+  "numRatings": 0,
+  "avgRating": 0,
+  "numViews": 96390,
+  "scoreCompleteness": 83,
+  "groupDesignations": null,
+  "apiToken1ExpirationDate": -1,
+  "apiToken2ExpirationDate": -1,
+  "lastViewed": 1789380000000
+}

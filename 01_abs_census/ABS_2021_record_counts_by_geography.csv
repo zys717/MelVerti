@@ -1,0 +1,13 @@
+"Number of records by region"
+"Region","NSW","Vic.","Qld","SA","WA","Tas.","NT","ACT","OT","Aust.","Total*"
+"S/T","1","1","1","1","1","1","1","1","1","9","10"
+"GCCSA","4","4","4","4","4","4","4","3","3","34","35"
+"SA4","30","19","21","9","12","6","4","3","3","107","108"
+"SA3","94","68","84","30","36","17","11","12","6","358","359"
+"SA2","644","524","548","176","267","101","70","136","6","2,472","2,473"
+"SA1","19,750","15,482","12,549","4,329","6,352","1,482","649","1,229","22","61,844","61,845"
+"MB","112,738","88,739","71,862","28,431","43,322","13,034","3,361","6,662","136","368,285","368,286"
+
+" *Total varies from the Australia count by one as it includes a new special purpose code for Outside Australia."
+
+" Source: Australian Bureau of Statistics, Main Structure and Greater Capital City Statistical Areas Edition 3, July 2021 - June 2026"

@@ -1,0 +1,12 @@
+metric,value,unit
+sample_households,882.0,households
+sample_weekday_trips,4772.0,records
+sample_weekday_work_journeys,416.0,records
+all_trip_motorised_share_pct,59.54428101508821,weighted percent
+all_trip_public_transport_share_pct,10.54049499941998,weighted percent
+all_trip_active_share_pct,29.27833063256507,weighted percent
+work_journey_motorised_share_pct,65.809306717628,weighted percent
+work_journey_public_transport_share_pct,26.78785758739593,weighted percent
+work_journey_active_share_pct,7.167304786359183,weighted percent
+work_journey_weighted_median_distance_km,9.24749,km
+work_journey_weighted_median_travel_time_min,30.0,minutes

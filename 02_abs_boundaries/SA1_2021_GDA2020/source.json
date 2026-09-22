@@ -1,0 +1,9 @@
+{
+  "source_url": "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/digital-boundary-files/SA1_2021_AUST_SHP_GDA2020.zip",
+  "download_date": "2026-09-14",
+  "scope": "Australia, original official archive",
+  "crs": "GDA2020",
+  "records": 61845,
+  "victoria_records": 15482,
+  "zip_crc_check": "passed"
+}

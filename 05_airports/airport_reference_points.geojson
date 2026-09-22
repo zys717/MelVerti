@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84333333333333,
+          -37.67333333333333
+        ]
+      },
+      "properties": {
+        "icao": "YMML",
+        "name": "Melbourne",
+        "latitude_dms": "37 40 24S",
+        "longitude_dms": "144 50 36E",
+        "source_url": "https://www.airservicesaustralia.com/aip/pending/dap/MMLAD01-187_03SEP2026.pdf",
+        "source_chart": "MMLAD01-187",
+        "download_date": "2026-09-14",
+        "buffer_radius_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90194444444444,
+          -37.72805555555556
+        ]
+      },
+      "properties": {
+        "icao": "YMEN",
+        "name": "Essendon",
+        "latitude_dms": "37 43 41S",
+        "longitude_dms": "144 54 07E",
+        "source_url": "https://www.airservicesaustralia.com/aip/pending/dap/MENAD01-187_03SEP2026.pdf",
+        "source_chart": "MENAD01-187",
+        "download_date": "2026-09-14",
+        "buffer_radius_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10222222222222,
+          -37.975833333333334
+        ]
+      },
+      "properties": {
+        "icao": "YMMB",
+        "name": "Moorabbin",
+        "latitude_dms": "37 58 33S",
+        "longitude_dms": "145 06 08E",
+        "source_url": "https://www.airservicesaustralia.com/aip/pending/dap/MMBAD01-179_03SEP2026.pdf",
+        "source_chart": "MMBAD01-179",
+        "download_date": "2026-09-14",
+        "buffer_radius_m": null
+      }
+    }
+  ]
+}

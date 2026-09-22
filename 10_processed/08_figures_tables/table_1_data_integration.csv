@@ -1,0 +1,8 @@
+Component,Analytical sample,Definition or total
+Study area,14 LGAs,633.90 km2
+SA1 population demand,"4,347 SA1s","1,877,413 residents; 100% join"
+SA2 employment,140 SA2s,"1,304,825 workers; 100% join"
+Activity POIs,"1,632 points",10 retained activity categories
+GTFS service nodes,"9,792 nodes","750,725 usable departures/stop events"
+Feasible properties,"39,020 properties",After all hard constraints
+MCLP candidates,531 sites,One highest-scoring property per 500 m cell

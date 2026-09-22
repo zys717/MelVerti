@@ -1,0 +1,10 @@
+stage,remaining,share_of_14_lga_property_pct
+all_PROPERTY_MP_records_in_14_LGAs,1323356,100.0
+server_prefilter_active_property_polygon_shape_area,121238,9.161404792058978
+invalid_geometry,121238,9.161404792058978
+area_below_5700_m2_recalculated,71044,5.368472278056698
+compactness_below_0_10,69404,5.244544929709012
+within_3000m_airport_buffer,68802,5.199054525010655
+incompatible_or_unmatched_zone,51187,3.8679690121176766
+hard_exclusion_overlay,39020,2.9485641051992055
+500m_candidate_thinning,531,0.04012525730037873

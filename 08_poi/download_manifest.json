@@ -1,0 +1,13 @@
+{
+  "download_date": "2026-09-17",
+  "source": "https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/ArcGIS/rest/services/Vicmap_Features_of_Interest/FeatureServer",
+  "selection": "FOI_POINT intersecting the bounding box of the downloaded PLAN_UGB line layer",
+  "bbox_epsg4326": [
+    144.523007129782,
+    -38.4809337828773,
+    145.73918693024,
+    -37.3900962047483
+  ],
+  "count": 19249,
+  "scope_note": "Bounding-box extraction; includes locations outside the final UGB polygon and requires later clipping."
+}

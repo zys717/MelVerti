@@ -1,0 +1,283 @@
+{
+  "currentVersion" : 12, 
+  "serviceItemId" : "030260df07b14b2aad0e4018eb6eb18d", 
+  "serviceDescription" : "", 
+  "hasVersionedData" : false, 
+  "supportsDisconnectedEditing" : false, 
+  "hasStaticData" : false, 
+  "hasSharedDomains" : false, 
+  "maxRecordCount" : 2000, 
+  "maxIdsCount" : 1000000, 
+  "supportedQueryFormats" : "JSON", 
+  "supportsVCSProjection" : false, 
+  "supportedExportFormats" : "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel", 
+  "supportedConvertFileFormats" : "JSON,PBF", 
+  "supportedConvertContentFormats" : "LayerEditCollection", 
+  "supportedFullTextLocales" : [
+    "neutral", 
+    "ar-SA", 
+    "bg-BG", 
+    "bn-IN", 
+    "ca-ES", 
+    "cs-CZ", 
+    "da-DK", 
+    "de-DE", 
+    "el-GR", 
+    "en-GB", 
+    "en-US", 
+    "es-ES", 
+    "fr-FR", 
+    "gu-IN", 
+    "he-IL", 
+    "hi-IN", 
+    "hr-HR", 
+    "id-ID", 
+    "is-IS", 
+    "it-IT", 
+    "ja-JP", 
+    "kn-IN", 
+    "ko-KR", 
+    "lt-LT", 
+    "lv-LV", 
+    "ml-IN", 
+    "mr-IN", 
+    "ms-MY", 
+    "nb-NO", 
+    "nl-NL", 
+    "pa-IN", 
+    "pl-PL", 
+    "pt-BR", 
+    "pt-PT", 
+    "ro-RO", 
+    "ru-RU", 
+    "sk-SK", 
+    "sl-SI", 
+    "sr-Cyrl-CS", 
+    "sr-Latn-CS", 
+    "sv-SE", 
+    "ta-IN", 
+    "te-IN", 
+    "th-TH", 
+    "tr-TR", 
+    "uk-UA", 
+    "ur-PK", 
+    "vi-VN", 
+    "zh-CN", 
+    "zh-HK", 
+    "zh-MO", 
+    "zh-SG", 
+    "zh-TW"
+  ], 
+  "supportsSharedTemplates" : true, 
+  "hasSharedTemplates" : true, 
+  "capabilities" : "Query,Extract", 
+  "description" : "", 
+  "copyrightText" : "", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "initialExtent" : {
+    "xmin" : 15671951.307482613, 
+    "ymin" : -4773431.93965927, 
+    "xmax" : 16718705.520422326, 
+    "ymax" : -4002862.1473348467, 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }
+  }, 
+  "fullExtent" : {
+    "xmin" : 15691832.304499999, 
+    "ymin" : -4748366.6706000008, 
+    "xmax" : 16695333.184699997, 
+    "ymax" : -4026287.2445, 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }
+  }, 
+  "allowGeometryUpdates" : true, 
+  "supportsTrueCurve" : true, 
+  "trueCurveSupportMode" : "OGC", 
+  "supportedCurveTypes" : [
+    "esriGeometryCircularArc"
+  ], 
+  "supportedTrueCurvePbfFeatureEncodings" : [
+    "esriCompressedShapeBuffer", 
+    "esriDefault"
+  ], 
+  "allowTrueCurvesUpdates" : true, 
+  "onlyAllowTrueCurveUpdatesByTrueCurveClients" : false, 
+  "units" : "esriMeters", 
+  "supportsAppend" : true, 
+  "supportedAppendCapabilities" : "Features", 
+  "supportsSharedDomains" : true, 
+  "supportsWebHooks" : true, 
+  "supportsTemporalLayers" : true, 
+  "layerOverridesEnabled" : true, 
+  "size" : 3532242944, 
+  "syncEnabled" : false, 
+  "supportsApplyEditsWithGlobalIds" : false, 
+  "supportsReturnDeleteResults" : true, 
+  "supportsLayerOverrides" : true, 
+  "supportsTilesAndBasicQueriesMode" : true, 
+  "supportsQueryContingentValues" : true, 
+  "supportedContingentValuesFormats" : "JSON, PBF", 
+  "supportsContingentValuesJson" : 2, 
+  "advancedEditingCapabilities" : {
+    "supportsSplit" : false, 
+    "supportsReturnServiceEditsInSourceSR" : false, 
+    "supportsAsyncApplyEdits" : true, 
+    "supportsReturnEditResults" : true, 
+    "supportsApplyEditsbyUploadID" : true, 
+    "supportedApplyEditsUploadIDFormats" : "JSON,PBF"
+  }, 
+  "editorTrackingInfo" : {
+    "enableEditorTracking" : false, 
+    "enableOwnershipAccessControl" : false, 
+    "allowOthersToQuery" : true, 
+    "allowOthersToUpdate" : true, 
+    "allowOthersToDelete" : false, 
+    "allowAnonymousToQuery" : true, 
+    "allowAnonymousToUpdate" : true, 
+    "allowAnonymousToDelete" : true
+  }, 
+  "xssPreventionInfo" : {
+    "xssPreventionEnabled" : true, 
+    "xssPreventionRule" : "InputOnly", 
+    "xssInputRule" : "rejectInvalid"
+  }, 
+  "layers" : [
+    {
+      "id" : 0, 
+      "name" : "Property Map Polygons - Vicmap Property (PROPERTY_MP)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPolygon"
+    }
+  ], 
+  "tables" : [
+    {
+      "id" : 1, 
+      "name" : "Reference table for LGA_CODE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 2, 
+      "name" : "Reference table for PARISH_CODE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 3, 
+      "name" : "Reference table for TOWNSHIP_CODE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 4, 
+      "name" : "Reference table for CROWN_STATUS", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 5, 
+      "name" : "Reference table for DESC_TYPE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 6, 
+      "name" : "Reference table for GRAPHIC_TYPE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 7, 
+      "name" : "Reference table for MULTI_ASSESSMENT", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 8, 
+      "name" : "Reference table for PART", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 9, 
+      "name" : "Reference table for PLAN_NUMBER", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 10, 
+      "name" : "Reference table for PROPERTY_TYPE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 11, 
+      "name" : "Reference table for SPI_CODE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 12, 
+      "name" : "Reference table for STATUS", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 13, 
+      "name" : "Reference table for Z_LEVEL", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }
+  ]
+}

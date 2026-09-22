@@ -1,0 +1,9 @@
+{
+  "dataset": "Statistical Area Level 2 (SA2) 2021 digital boundaries, GDA2020",
+  "publisher": "Australian Bureau of Statistics",
+  "download_date": "2026-09-17",
+  "source_page": "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/digital-boundary-files",
+  "download_url": "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/digital-boundary-files/SA2_2021_AUST_SHP_GDA2020.zip",
+  "scope": "Australia; official 2021 SA2 boundary shapefile",
+  "integrity": "ZIP archive test passed after download"
+}

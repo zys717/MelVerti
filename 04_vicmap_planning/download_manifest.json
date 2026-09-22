@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PLAN_UGB",
+    "count": 130,
+    "source": "https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/ArcGIS/rest/services/Vicmap_Planning/FeatureServer/0",
+    "where": "1=1"
+  },
+  {
+    "name": "PLAN_OVERLAY",
+    "count": 99758,
+    "source": "https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/ArcGIS/rest/services/Vicmap_Planning/FeatureServer/2",
+    "where": "upper(lga) IN ('BANYULE','BAYSIDE','BOROONDARA','BRIMBANK','CARDINIA','CASEY','DAREBIN','FRANKSTON','GLEN EIRA','GREATER DANDENONG','HOBSONS BAY','HUME','KINGSTON','KNOX','MANNINGHAM','MARIBYRNONG','MAROONDAH','MELBOURNE','MELTON','MERRI-BEK','MONASH','MOONEE VALLEY','MORNINGTON PENINSULA','NILLUMBIK','PORT PHILLIP','STONNINGTON','WHITEHORSE','WHITTLESEA','WYNDHAM','YARRA','YARRA RANGES','MORELAND')"
+  },
+  {
+    "name": "PLAN_ZONE",
+    "count": 20968,
+    "source": "https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/ArcGIS/rest/services/Vicmap_Planning/FeatureServer/3",
+    "where": "upper(lga) IN ('BANYULE','BAYSIDE','BOROONDARA','BRIMBANK','CARDINIA','CASEY','DAREBIN','FRANKSTON','GLEN EIRA','GREATER DANDENONG','HOBSONS BAY','HUME','KINGSTON','KNOX','MANNINGHAM','MARIBYRNONG','MAROONDAH','MELBOURNE','MELTON','MERRI-BEK','MONASH','MOONEE VALLEY','MORNINGTON PENINSULA','NILLUMBIK','PORT PHILLIP','STONNINGTON','WHITEHORSE','WHITTLESEA','WYNDHAM','YARRA','YARRA RANGES','MORELAND')"
+  },
+  {
+    "name": "PLAN_CODELIST",
+    "count": 4114,
+    "source": "https://services-ap1.arcgis.com/P744lA0wf4LlBZ84/ArcGIS/rest/services/Vicmap_Planning/FeatureServer/4",
+    "where": "1=1"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "PLAN_UGB": {
+    "count": 130,
+    "unique_objectids": 130,
+    "null_geometry_ids": [],
+    "lga_count": 18
+  },
+  "PLAN_OVERLAY": {
+    "count": 99758,
+    "unique_objectids": 99758,
+    "null_geometry_ids": [
+      39038,
+      46170
+    ],
+    "lga_count": 31
+  },
+  "PLAN_ZONE": {
+    "count": 20968,
+    "unique_objectids": 20968,
+    "null_geometry_ids": [],
+    "lga_count": 31
+  }
+}

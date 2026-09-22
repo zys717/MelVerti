@@ -1,0 +1,10 @@
+{
+  "dataset": "2021 Census Working Population Profile, all geographies for Victoria, short header",
+  "publisher": "Australian Bureau of Statistics",
+  "download_date": "2026-09-17",
+  "source_page": "https://www.abs.gov.au/census/find-census-data/datapacks",
+  "download_url": "https://www.abs.gov.au/census/find-census-data/datapacks/download/2021_WPP_all_for_VIC_short-header.zip",
+  "scope": "Victoria; POW tables for SA2, SA3, SA4, LGA, GCCSA and state geographies",
+  "integrity": "ZIP archive test passed after download",
+  "use_note": "Workplace-side employment profile; it is not an origin-destination commuting matrix and contains no SA1/DZN geography."
+}

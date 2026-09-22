@@ -1,0 +1,409 @@
+{
+  "currentVersion" : 12, 
+  "serviceItemId" : "57b2690423b14af89ae67c6c47606e9f", 
+  "serviceDescription" : "", 
+  "hasVersionedData" : false, 
+  "supportsDisconnectedEditing" : false, 
+  "hasStaticData" : false, 
+  "hasSharedDomains" : false, 
+  "maxRecordCount" : 2000, 
+  "maxIdsCount" : 1000000, 
+  "supportedQueryFormats" : "JSON", 
+  "supportsVCSProjection" : false, 
+  "supportedExportFormats" : "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel", 
+  "supportedConvertFileFormats" : "JSON,PBF", 
+  "supportedConvertContentFormats" : "LayerEditCollection", 
+  "supportedFullTextLocales" : [
+    "neutral", 
+    "ar-SA", 
+    "bg-BG", 
+    "bn-IN", 
+    "ca-ES", 
+    "cs-CZ", 
+    "da-DK", 
+    "de-DE", 
+    "el-GR", 
+    "en-GB", 
+    "en-US", 
+    "es-ES", 
+    "fr-FR", 
+    "gu-IN", 
+    "he-IL", 
+    "hi-IN", 
+    "hr-HR", 
+    "id-ID", 
+    "is-IS", 
+    "it-IT", 
+    "ja-JP", 
+    "kn-IN", 
+    "ko-KR", 
+    "lt-LT", 
+    "lv-LV", 
+    "ml-IN", 
+    "mr-IN", 
+    "ms-MY", 
+    "nb-NO", 
+    "nl-NL", 
+    "pa-IN", 
+    "pl-PL", 
+    "pt-BR", 
+    "pt-PT", 
+    "ro-RO", 
+    "ru-RU", 
+    "sk-SK", 
+    "sl-SI", 
+    "sr-Cyrl-CS", 
+    "sr-Latn-CS", 
+    "sv-SE", 
+    "ta-IN", 
+    "te-IN", 
+    "th-TH", 
+    "tr-TR", 
+    "uk-UA", 
+    "ur-PK", 
+    "vi-VN", 
+    "zh-CN", 
+    "zh-HK", 
+    "zh-MO", 
+    "zh-SG", 
+    "zh-TW"
+  ], 
+  "supportsSharedTemplates" : true, 
+  "hasSharedTemplates" : true, 
+  "capabilities" : "Query,Extract", 
+  "description" : "", 
+  "copyrightText" : "", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "initialExtent" : {
+    "xmin" : 15670400.922943389, 
+    "ymin" : -4753985.7972462634, 
+    "xmax" : 16684083.013347251, 
+    "ymax" : -3859982.8202312873, 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }
+  }, 
+  "fullExtent" : {
+    "xmin" : 15478502.886500001, 
+    "ymin" : -4751499.6768000014, 
+    "xmax" : 16862961.831100002, 
+    "ymax" : -3897745.8819999993, 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }
+  }, 
+  "allowGeometryUpdates" : true, 
+  "supportsTrueCurve" : true, 
+  "trueCurveSupportMode" : "OGC", 
+  "supportedCurveTypes" : [
+    "esriGeometryCircularArc"
+  ], 
+  "supportedTrueCurvePbfFeatureEncodings" : [
+    "esriCompressedShapeBuffer", 
+    "esriDefault"
+  ], 
+  "allowTrueCurvesUpdates" : true, 
+  "onlyAllowTrueCurveUpdatesByTrueCurveClients" : false, 
+  "units" : "esriMeters", 
+  "supportsAppend" : true, 
+  "supportedAppendCapabilities" : "Features", 
+  "supportsSharedDomains" : true, 
+  "supportsWebHooks" : true, 
+  "supportsTemporalLayers" : true, 
+  "layerOverridesEnabled" : true, 
+  "size" : 479092736, 
+  "syncEnabled" : false, 
+  "supportsApplyEditsWithGlobalIds" : false, 
+  "supportsReturnDeleteResults" : true, 
+  "supportsLayerOverrides" : true, 
+  "supportsTilesAndBasicQueriesMode" : true, 
+  "supportsQueryContingentValues" : true, 
+  "supportedContingentValuesFormats" : "JSON, PBF", 
+  "supportsContingentValuesJson" : 2, 
+  "advancedEditingCapabilities" : {
+    "supportsSplit" : false, 
+    "supportsReturnServiceEditsInSourceSR" : false, 
+    "supportsAsyncApplyEdits" : true, 
+    "supportsReturnEditResults" : true, 
+    "supportsApplyEditsbyUploadID" : true, 
+    "supportedApplyEditsUploadIDFormats" : "JSON,PBF"
+  }, 
+  "editorTrackingInfo" : {
+    "enableEditorTracking" : false, 
+    "enableOwnershipAccessControl" : false, 
+    "allowOthersToQuery" : true, 
+    "allowOthersToUpdate" : true, 
+    "allowOthersToDelete" : false, 
+    "allowAnonymousToQuery" : true, 
+    "allowAnonymousToUpdate" : true, 
+    "allowAnonymousToDelete" : true
+  }, 
+  "xssPreventionInfo" : {
+    "xssPreventionEnabled" : true, 
+    "xssPreventionRule" : "InputOnly", 
+    "xssInputRule" : "rejectInvalid"
+  }, 
+  "layers" : [
+    {
+      "id" : 0, 
+      "name" : "Locality Point - Vicmap Features of Interest (LOCALITY_POINT)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPoint"
+    }, 
+    {
+      "id" : 1, 
+      "name" : "Point - Vicmap Features of Interest (FOI_POINT)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPoint"
+    }, 
+    {
+      "id" : 2, 
+      "name" : "Line - Vicmap Features of Interest (FOI_LINE)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPolyline"
+    }, 
+    {
+      "id" : 3, 
+      "name" : "Polygon - Vicmap Features of Interest (FOI_POLYGON)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPolygon"
+    }, 
+    {
+      "id" : 4, 
+      "name" : "Index Centroid - Vicmap Features of Interest (FOI_INDEX_CENTROID)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPoint"
+    }, 
+    {
+      "id" : 5, 
+      "name" : "Index Extent - Vicmap Features of Interest (FOI_INDEX_EXTENT)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPolygon"
+    }, 
+    {
+      "id" : 6, 
+      "name" : "Building Point -Vicmap Features of Interest (BUILDING_POINT)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPoint"
+    }, 
+    {
+      "id" : 7, 
+      "name" : "Building Polygon -Vicmap Features of Interest (BUILDING_POLYGON)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPolygon"
+    }, 
+    {
+      "id" : 8, 
+      "name" : "Register of Geographic Names - Vicmap Features of Interest (GNR)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPoint"
+    }, 
+    {
+      "id" : 9, 
+      "name" : "Built Up Area  - Vicmap Features of Interest (PL_PLACE_AREA_POLYGON)", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : false, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "type" : "Feature Layer", 
+      "geometryType" : "esriGeometryPolygon"
+    }
+  ], 
+  "tables" : [
+    {
+      "id" : 10, 
+      "name" : "Reference table for FEATURE_CATALOGUE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 11, 
+      "name" : "Reference table for FEATURE_CATALOGUE_MASTER", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 12, 
+      "name" : "Reference table for FEATURE_SUBTYPE_TABLE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 13, 
+      "name" : "Reference table for FEATURE_TYPE_TOPO", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 14, 
+      "name" : "Reference table for FEATURE_VICMAP2VICNAMES", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 15, 
+      "name" : "Reference table for FT_AUTHORITATIVE_ORGANISATION", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 16, 
+      "name" : "Reference table for FT_FEATURE_PARENT", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 17, 
+      "name" : "Reference table for FT_FEATURE_TYPE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 18, 
+      "name" : "Reference table for FT_PLACE_HIERARCHY", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 19, 
+      "name" : "Reference table for FT_SCALE_USE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 20, 
+      "name" : "Reference table for FT_VICNAMES_STATUS", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 21, 
+      "name" : "Reference table for GNR.GNR_FEATURE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 22, 
+      "name" : "Reference table for GNR.GNR_NAME_STATUS", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 23, 
+      "name" : "Reference table for LOCALITY_POINT.FT_PLACE_HIERARCHY", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 24, 
+      "name" : "Reference table for LOCALITY_POINT.FT_SCALE_USE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }, 
+    {
+      "id" : 25, 
+      "name" : "Reference table for LOCALITY_POINT.FR_STATE", 
+      "parentLayerId" : -1, 
+      "defaultVisibility" : true, 
+      "subLayerIds" : null, 
+      "minScale" : 0, 
+      "maxScale" : 0
+    }
+  ]
+}
